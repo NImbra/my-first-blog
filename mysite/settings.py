@@ -25,7 +25,7 @@ SECRET_KEY = '*tu4m!q+-(o9u#o8tj2a=ov&1y$7mry=vidk1h2lvev^i1%!yq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'nimbra.pythonanywhere.com']
 
 
 # Application definition
